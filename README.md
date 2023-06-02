@@ -40,12 +40,12 @@
 2. Extract the .zip file
 
 ### For Regular Users:
-1. Move the files to `~/.config/ghostwriter/themes`
-2. Select the theme you want in Settings/Themes
+1. Move the files to `~/.config/ghostwriter/themes/`
+2. Select the theme you want in ghostwriter Settings/Themes
 
 ### For Flatpak Users:
 1. Move the files to `~/.var/app/io.github.wereturtle.ghostwriter/config/ghostwriter/themes/`
-2. Select the theme you want in Settings/Themes
+2. Select the theme you want in ghostwriter Settings/Themes
 
 <!-- this section is optional -->
 ## 🙋 FAQ
