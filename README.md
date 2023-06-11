@@ -38,14 +38,14 @@
 
 1. Navigate to [Releases](https://github.com/bagelwaffle/ghostwriter/releases/)
 2. Extract the .zip file
+3. Move the json files to:
+- Windows: `C:\Users<your_user_name>\AppData\Roaming\ghostwriter\themes\`
+- Windows (Portable): `<your_ghostwriter_portable_folder>\data\themes\`
+- GNU/Linux: `~/.config/ghostwriter/themes/`
+- GNU/Linux (Flatpak): `~/.var/app/io.github.wereturtle.ghostwriter/config/ghostwriter/themes/`
+- macOS: `~/Library/Application Support/ghostwriter/themes/`
+4. Select the theme you want in `Ghostwriter Settings/Themes`
 
-### For Regular Users:
-1. Move the files to `~/.config/ghostwriter/themes/`
-2. Select the theme you want in ghostwriter Settings/Themes
-
-### For Flatpak Users:
-1. Move the files to `~/.var/app/io.github.wereturtle.ghostwriter/config/ghostwriter/themes/`
-2. Select the theme you want in ghostwriter Settings/Themes
 
 <!-- this section is optional -->
 ## 🙋 FAQ
