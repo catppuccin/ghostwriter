@@ -46,8 +46,6 @@
 - macOS: `~/Library/Application Support/ghostwriter/themes/`
 4. Select the theme you want in `Ghostwriter Settings/Themes`
 
-
-<!-- this section is optional -->
 ## 🙋 FAQ
 
 -	Q: **_"Where is Latte?"_**\
