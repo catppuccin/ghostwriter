@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/bagelwaffle/ghostwriter/stargazers"><img src="https://img.shields.io/github/stars/bagelwaffle/ghostwriter?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/bagelwaffle/ghostwriter/issues"><img src="https://img.shields.io/github/issues/bagelwaffle/ghostwriter?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/bagelwaffle/ghostwriter/contributors"><img src="https://img.shields.io/github/contributors/bagelwaffle/ghostwriter?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/ghostwriter/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/ghostwriter?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/ghostwriter/issues"><img src="https://img.shields.io/github/issues/catppuccin/ghostwriter?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/ghostwriter/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/ghostwriter?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 
 ## Usage
 
-1. Navigate to [Releases](https://github.com/bagelwaffle/ghostwriter/releases/)
+1. Navigate to [Releases](https://github.com/catppuccin/ghostwriter/releases/)
 2. Extract the .zip file
 3. Move the json files to:
 - Windows: `C:\Users<your_user_name>\AppData\Roaming\ghostwriter\themes\`
