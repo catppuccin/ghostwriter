@@ -40,7 +40,7 @@
 2. Extract the .zip file
 3. Move the json files to:
 - GNU/Linux: `~/.config/ghostwriter/themes/`
-- GNU/Linux (Flatpak): `~/.var/app/io.github.wereturtle.ghostwriter/config/ghostwriter/themes/`
+- GNU/Linux (Flatpak): `~/.var/app/io.github.wereturtle.ghostwriter/data/ghostwriter/themes/`
 - macOS: `~/Library/Application Support/ghostwriter/themes/`
 - Windows: `C:\Users<your_user_name>\AppData\Roaming\ghostwriter\themes\`
 - Windows (Portable): `<your_ghostwriter_portable_folder>\data\themes\`
