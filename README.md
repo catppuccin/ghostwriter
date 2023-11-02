@@ -39,7 +39,7 @@
 1. Navigate to [Releases](https://github.com/catppuccin/ghostwriter/releases/)
 2. Extract the .zip file
 3. Move the json files to:
-- GNU/Linux: `~/.config/ghostwriter/themes/`
+- GNU/Linux: `~/.local/share/ghostwriter/themes/`
 - GNU/Linux (Flatpak): `~/.var/app/io.github.wereturtle.ghostwriter/data/ghostwriter/themes/`
 - macOS: `~/Library/Application Support/ghostwriter/themes/`
 - Windows: `C:\Users<your_user_name>\AppData\Roaming\ghostwriter\themes\`
