@@ -1,0 +1,31 @@
+---
+whiskers:
+  version: "2.3.0"
+  matrix:
+    - flavor: [frappe, macchiato, mocha]
+    - accent
+  filename: "themes/catppuccin-{{ flavor.identifier }}-{{ accent }}.json"
+---
+
+{%- macro theme(palette) -%}
+        "accent": "#{{ palette[accent].hex }}",
+        "background": "#{{ palette.base.hex }}",
+        "block": "#{{ palette.green.hex }}",
+        "cursor": "#{{ palette.rosewater.hex }}",
+        "emphasis": "#{{ palette.maroon.hex }}",
+        "error": "#{{ palette.red.hex }}",
+        "foreground": "#{{ palette.text.hex }}",
+        "heading": "#{{ palette.text.hex }}",
+        "link": "#{{ palette.blue.hex }}",
+        "markup": "#{{ palette.overlay0.hex }}",
+        "selection": "#{{ palette.surface2.hex }}"
+{%- endmacro -%}
+
+{
+    "dark": {
+        {{ self::theme(palette=flavor.colors) }}
+    },
+    "light": {
+        {{ self::theme(palette=flavors.latte.colors) }}
+    }
+}
