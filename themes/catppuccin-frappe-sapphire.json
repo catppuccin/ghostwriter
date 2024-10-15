@@ -1,10 +1,10 @@
 {
     "dark": {
-        "accent": "#babbf1",
+        "accent": "#85c1dc",
         "background": "#303446",
         "block": "#a6d189",
         "cursor": "#f2d5cf",
-        "emphasis": "#e78284",
+        "emphasis": "#ea999c",
         "error": "#e78284",
         "foreground": "#c6d0f5",
         "heading": "#c6d0f5",
@@ -13,7 +13,7 @@
         "selection": "#626880"
     },
     "light": {
-        "accent": "#7287fd",
+        "accent": "#209fb5",
         "background": "#eff1f5",
         "block": "#40a02b",
         "cursor": "#dc8a78",

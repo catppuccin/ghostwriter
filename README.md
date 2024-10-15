@@ -36,21 +36,20 @@
 
 ## Usage
 
-1. Navigate to [Releases](https://github.com/catppuccin/ghostwriter/releases/)
-2. Extract the .zip file
-3. Move the json files to:
+1. Copy your preferred flavor(s) from [`themes/`](./themes/) to:
+
 - GNU/Linux: `~/.local/share/ghostwriter/themes/` **or** `~/.config/ghostwriter/themes/` on older versions of ghostwriter.
 - GNU/Linux (Flatpak): `~/.var/app/io.github.wereturtle.ghostwriter/data/ghostwriter/themes/`
 - macOS: `~/Library/Application Support/ghostwriter/themes/`
 - Windows: `C:\Users<your_user_name>\AppData\Roaming\ghostwriter\themes\`
 - Windows (Portable): `<your_ghostwriter_portable_folder>\data\themes\`
 
-4. Select the theme you want in `Ghostwriter Settings/Themes`
+2. Select the theme you want in `Ghostwriter Settings/Themes`.
 
 ## 🙋 FAQ
 
--	Q: **_"Where is Latte?"_**\
-	A: Latte is included in every theme as the light mode, simply click the moon on the bottom right of your screen!
+- Q: **_"Where is Latte?"_**\
+  A: Latte is included in every theme as the light mode, simply click the moon on the bottom right of your screen!
 
 ## 💝 Thanks to
 
