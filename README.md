@@ -46,11 +46,6 @@
 
 2. Select the theme you want in `Ghostwriter Settings/Themes`.
 
-## 🙋 FAQ
-
-- Q: **_"Where is Latte?"_**\
-  A: Latte is included in every theme as the light mode, simply click the moon on the bottom right of your screen!
-
 ## 💝 Thanks to
 
 - [BagelWaffle](https://github.com/bagelwaffle)
