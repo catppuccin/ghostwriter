@@ -39,7 +39,7 @@
 1. Copy your preferred flavor(s) from [`themes/`](./themes/) to:
 
 - GNU/Linux: `~/.local/share/ghostwriter/themes/` **or** `~/.config/ghostwriter/themes/` on older versions of ghostwriter.
-- GNU/Linux (Flatpak): `~/.var/app/io.github.wereturtle.ghostwriter/data/ghostwriter/themes/`
+- GNU/Linux (Flatpak): `~/.var/app/org.kde.ghostwriter/data/ghostwriter/themes/`
 - macOS: `~/Library/Application Support/ghostwriter/themes/`
 - Windows: `C:\Users<your_user_name>\AppData\Roaming\ghostwriter\themes\`
 - Windows (Portable): `<your_ghostwriter_portable_folder>\data\themes\`
